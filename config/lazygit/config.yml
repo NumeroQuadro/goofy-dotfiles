@@ -1,0 +1,8 @@
+os:
+  editPreset: "nvim"
+  editInTerminal: true
+
+git:
+  pagers:
+    - pager: "delta --paging=never"
+      colorArg: always
